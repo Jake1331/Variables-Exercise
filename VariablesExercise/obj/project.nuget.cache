@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LvBBp7VsfOWBg6IegftZeGonHeNyRCnR16OBwF2dVkn7HBDG9semQWUDfVrW9BpKZUpU09uazu75lWsd1o6G7w==",
+  "dgSpecHash": "MbhENZjq/x6cU+hYiaXmLhQ+G1aY4RW/ieY9AP0hlh+X6GZkeJ4DsesuRLBNLPtly+ty9DwXn6K/zY8X3tsDHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\VariablesExercise\\VariablesExercise\\VariablesExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\micha\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
